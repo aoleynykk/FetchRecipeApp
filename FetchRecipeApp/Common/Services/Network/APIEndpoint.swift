@@ -25,7 +25,7 @@ protocol ApiEndpoint {
 extension ApiEndpoint {
     var makeRequest: URLRequest {
         var urlComponents = URLComponents(string: baseURLString)
-        var longPath = "/"
+        var longPath = ""
 
         if !path.isEmpty {
             longPath.append("/")
