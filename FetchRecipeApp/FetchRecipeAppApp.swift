@@ -2,7 +2,7 @@
 //  FetchRecipeAppApp.swift
 //  FetchRecipeApp
 //
-//  Created by Олександр Олійник on 13.03.2025.
+//  Created by Alex Oliynyk on 13.03.2025.
 //
 
 import SwiftUI
